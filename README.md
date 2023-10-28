@@ -9,7 +9,7 @@ This is my github profile where i will just post my projects and see what people
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-icon-512x512-7y8c173y.png" />
-
+<hr>
 ### 📊 Stats
 
 ![Realbased GitHub stats](https://github-readme-stats.vercel.app/api?username=realbased&show_icons=true&theme=gruvbox)
