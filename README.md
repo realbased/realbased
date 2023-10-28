@@ -1,5 +1,5 @@
 # RealBased
-I am a pentesting student, i started my coding carrer with building discord bots and python malwares for educational purposes only.
+I am a pentesting student, i started my coding carrer with building discord bots and python based malwares for educational and testing purposes only.
 I have a little bit of experience with javascript, nodejs, lua, SQL and some more.. but i dont think i know enough to just claim that i know how to code in it
 but im pretty sure that if you tell me to do something in any language, i can do it.
 This is my github profile where i will just post my projects and see what people think of it.
