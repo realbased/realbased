@@ -12,5 +12,5 @@ This is my github profile where i will just post my projects and see what people
 <br>
 <hr>
 
-![Realbased GitHub stats](https://github-readme-stats.vercel.app/api?username=realbased&show_icons=true&theme=dracula)
+https://github-readme-stats.vercel.app/api?username=realbased&show_icons=true&theme=dracula
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=realbased&theme=dracula&border_radius=4.5) -->
