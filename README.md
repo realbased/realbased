@@ -1,8 +1,5 @@
 # RealBased
-<p> I started my coding carrer by building discord bots and python based malwares for educational and testing purposes only. <br>
-My main language probably is python tbh but i have worked with many other languages and im pretty sure that if you tell me to do something in any language, i can do it.
-<br>This is my github profile where i will just post random sh!t and see what people think of it, idk.</p>
-<p>And i use artix btw</p>
+<p>I use artix btw</p>
 <div align="center">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=realbased&theme=highcontrast&border_radius=4.6&date_format=j%2Fn%5B%2FY%5D&card_width=1200)](https://git.io/streak-stats)
