@@ -11,7 +11,7 @@
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
-<img align="left" alt="Bash" width="80" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-icon-512x512-7y8c173y.png" />
 <img align="left alt="lua" width="84" src="https://cdn.iconscout.com/icon/free/png-512/free-lua-3521554-2944972.png?f=webp&w=256"/>
+<img align="left" alt="Bash" width="80" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-icon-512x512-7y8c173y.png" />
 </div>
 </div>
